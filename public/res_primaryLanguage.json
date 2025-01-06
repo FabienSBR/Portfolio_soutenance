@@ -1,0 +1,86 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Fabien Soubrier. Junior Front-end developer / Web Integrator. I'm working with newest frameworks like React.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Sophie Bluel - Photographer Portfolio",
+        "startDate": "2024",
+        "description": "Creation of a dynamic web page, using JavaScript and DOM elements manipulation.",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "https://github.com/FabienSBR/Portfolio-architecte-sophie-bluel",
+        "technologies": [
+          {
+            "name": "JavaScript",
+            "class": "devicon-javascript-plain"
+          }
+        ]
+      },
+      {
+        "title": "KASA - Web application for a real estate rental agency",
+        "startDate": "2024",
+        "description": "Implementing the front-end of an application using React and React Router to create a modern and responsive user experience.",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://github.com/FabienSBR/KASA_soutenance",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Booki - Creating the homepage of a travel agency",
+        "startDate": "2024",
+        "description": "Creation of the homepage of a travel agency using HTML & CSS, from Figma",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "OpenClassrooms",
+        "title": "Front-end developer",
+        "years": "02.2024 - present",
+        "mainTech": [
+          "React"
+        ],
+        "technologies": [
+          "HTML5",
+          "CSS3",
+          "JavaScript",
+          "React"
+        ]
+      }
+    ]
+  }
